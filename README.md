@@ -49,8 +49,13 @@ Streamlit
 Joblib (for model persistence)
 
 📂 Project Structure
+|
 ├── Main.ipynb          # Model training & evaluation
+|
 ├── app2.py             # Streamlit web application
+|
 ├── xgb_model.pkl       # Trained XGBoost model
+|
 ├── model_features.pkl  # Feature list for the model
+|
 └── README.md           # Project documentation
